@@ -6,12 +6,12 @@ Please do acknowledge the authors of the scripts as stated.
 The R scrip "petaurista_ICC_2026.R" can be used for:
 
 STR loci:
-Allelic richness
-Pairwise FST
-Principal components analysis (PCA)
-Redundancy analysis (RDA)
+*  Allelic richness
+*  Pairwise FST
+*  Principal components analysis (PCA)
+*  Redundancy analysis (RDA)
 
 mtDNA:
-Multidimensional Scaling (MDS) 
+*  Multidimensional Scaling (MDS) 
 
 Example files are included in the repository which matches the architecture required to use the R script.
